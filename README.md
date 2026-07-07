@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Di Cui. Data & Reporting Analyst based in Boston. 10+ years of experience in fund
+I'm Di. Data & Reporting Analyst based in Boston. 10+ years of experience in fund
 performance analysis and recurring reporting. CFA charterholder.
 
 My work centers on recurring reporting processes: collecting data from
