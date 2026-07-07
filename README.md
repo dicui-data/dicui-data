@@ -26,12 +26,12 @@ and trends, and turning the results into reports and dashboards.
 
 ### Projects
 
-- **[ma-budget-sql-powerbi][repo link]** — SQL and Power BI analysis of
+- **[ma-budget-sql-powerbi](https://github.com/dicui-data/ma-budget-sql-powerbi)** — SQL and Power BI analysis of
   Massachusetts state budget data (CTHRU, FY2005–2027): data cleaning,
   reconciliation checks, variance analysis, and interactive dashboards
-- **[fund-screening-demo][repo link]** — Python demo of rule-based fund
+- **[fund-screening-demo](https://github.com/dicui-data/fund-screening-demo)** — Python demo of rule-based fund
   eligibility screening, rebuilt with public data (no employer data or
   proprietary rules included)
-- **[sql-practice][repo link]** — worked solutions to SQL practice problems
+- **[sql-practice](https://github.com/dicui-data/sql-practice)** — worked solutions to SQL practice problems
 
 📫 cuidi0315@gmail.com · [LinkedIn](https://www.linkedin.com/in/di-cui-1a00701a9)
