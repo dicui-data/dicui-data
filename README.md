@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Di Cui. Data & Reporting Analyst based in Boston. 10+ years of experience in fund
+performance analysis and recurring reporting. CFA charterholder.
+
+My work centers on recurring reporting processes: collecting data from
+multiple source systems, validating and reconciling it, analyzing variance
+and trends, and turning the results into reports and dashboards.
+
+**Tools:** SQL · Power BI · Python (pandas, NumPy) · Excel (advanced) · SPSS
+
+### Projects
+
+- **[ma-budget-sql-powerbi][repo link]** — SQL and Power BI analysis of
+  Massachusetts state budget data (CTHRU, FY2005–2027): data cleaning,
+  reconciliation checks, variance analysis, and interactive dashboards
+- **[fund-screening-demo][repo link]** — Python demo of rule-based fund
+  eligibility screening, rebuilt with public data (no employer data or
+  proprietary rules included)
+- **[sql-practice][repo link]** — worked solutions to SQL practice problems
+
+📫 cuidi0315@gmail.com · [LinkedIn](https://www.linkedin.com/in/di-cui-1a00701a9)
