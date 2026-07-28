@@ -15,23 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Di. Data & Reporting Analyst based in Boston. 10+ years of experience in fund
-performance analysis and recurring reporting. CFA charterholder.
+I'm Di Cui. Data analyst in Boston. 10+ years of reporting and analytics in finance. CFA charterholder.
 
-My work centers on recurring reporting processes: collecting data from
-multiple source systems, validating and reconciling it, analyzing variance
-and trends, and turning the results into reports and dashboards.
 
-**Tools:** SQL · Power BI · Python (pandas, NumPy) · Excel (advanced) · SPSS
+**Tools:** SQL · Python · SAS · Power BI · Tableau · SPSS
+
 
 ### Projects
 
-- **[ma-budget-sql-powerbi](https://github.com/dicui-data/ma-budget-sql-powerbi)** — SQL and Power BI analysis of
-  Massachusetts state budget data (CTHRU, FY2005–2027): data cleaning,
-  reconciliation checks, variance analysis, and interactive dashboards
-- **[fund-screening-demo](https://github.com/dicui-data/fund-screening-demo)** — Python demo of rule-based fund
-  eligibility screening, rebuilt with public data (no employer data or
-  proprietary rules included)
+- **[budget-analysis-sql-powerbi](https://github.com/dicui-data/ma-budget-sql-powerbi)** — Massachusetts state budget, FY2005–2027 (Comptroller's CTHRU open spending data, ~48k appropriation records). SQL cleaning and reconciliation checks, budget-to-actual variance and utilization analysis, Power BI dashboards. The 2022–23 utilization dip traces back to pandemic-era reserve accounts, not operations.
+- **[hospital-finance-sql-tableau]()** — Massachusetts hospital financial performance (Center for Health Information and Analysis, CHIA). Peer benchmarking across hospital cohorts, parent-system reconciliation, Tableau dashboards.
+- **[health-expenditure-sas]()** — U.S. household health care spending, 2023 (Medical Expenditure Panel Survey, MEPS-HC, AHRQ). Analyzed in SAS with the survey's stratified clustered sample design (SURVEYMEANS, DOMAIN, RATIO): zero-expenditure prevalence, spending concentration, payer mix, out-of-pocket burden.
+- **[fund-screening-python](https://github.com/dicui-data/fund-screening-python)** — Weekly fund eligibility screening against multi-condition, frequently changing criteria. Built on public fund data, with the rule engine and near-threshold flagging in Python.
 - **[sql-practice](https://github.com/dicui-data/sql-practice)** — worked solutions to SQL practice problems
+
+
 
 📫 cuidi0315@gmail.com · [LinkedIn](https://www.linkedin.com/in/di-cui-1a00701a9)
